@@ -1,7 +1,9 @@
 
+![Odisea](./start.jpg)
+
 # Odisea Brand-kit
 
-This repository contains the official brand guidelines and editorial style guide for Odisea. It serves as a comprehensive resource for maintaining consistent branding and communication across all Odisea materials.
+This repository contains the official brand guidelines and editorial style guide for Odisea. It serves as a comprehensive resource for maintaining consistent branding across all Odisea materials.
 
 ## Guides
 
@@ -20,7 +22,7 @@ This repository contains the official brand guidelines and editorial style guide
 
 
 
-| Symbol                                            | 
+| Diferent versions                                            | 
 | ------------------------------------------------- | 
 | ![SymbolBlue](logo/OdiseaBlack_1.png)   |
 | ![SymbolWhite](logo/OdiseaWhite_1.png) | 
