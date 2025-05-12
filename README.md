@@ -1,5 +1,5 @@
 
-![Odisea](./start.jpg)
+<!-- ![Odisea](./start.jpg) -->
 
 # Odisea Brand-kit
 
@@ -26,4 +26,4 @@ This repository contains the official brand guidelines and editorial style guide
 | ------------------------------------------------- | 
 | ![SymbolBlue](logo/OdiseaBlack_1.png)   |
 | ![SymbolWhite](logo/OdiseaWhite_1.png) | 
-| ![SymbolBlack](logo/OdiseaColor_1.png) 
+<!-- | ![SymbolBlack](logo/OdiseaColor_1.png)  -->
