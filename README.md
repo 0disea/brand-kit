@@ -1,5 +1,5 @@
 
-<!-- ![Odisea](./start.jpg) -->
+![Odisea](./newStart.jpg)
 
 # Odisea Brand-kit
 
