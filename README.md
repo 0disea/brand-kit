@@ -7,7 +7,7 @@ This repository contains the official brand guidelines and editorial style guide
 
 ## Guides
 
-- [Brand Guidelines](./guides/Odisea-Brand-Book-Guidelines_2024.pdf)
+- [Brand Guidelines](./guides/Odisea-Brand-Book-Guidelines_2025-1.pdf)
 
 ## Fonts
 
